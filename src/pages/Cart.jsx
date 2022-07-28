@@ -12,6 +12,7 @@ import { userRequest } from "../requestMethods";
 import { mobile } from "../responsive";
 
 const KEY = process.env.REACT_APP_STRIPE;
+console.log(KEY);
 
 const Container = styled.div``;
 
